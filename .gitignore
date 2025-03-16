@@ -4,3 +4,4 @@ __pychache__/
 *.local*
 logs
 *.env*
+.mypy_cache/

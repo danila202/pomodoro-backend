@@ -1,6 +1,0 @@
-2025-03-10 21:37:22.756 | INFO     | src.pomodoro.repositories.task:fetch_all_tasks:56 -  List filters []
-2025-03-10 21:39:14.370 | INFO     | src.pomodoro.repositories.task:create_task:44 - create new task with id 3
-2025-03-10 21:46:41.451 | INFO     | src.pomodoro.repositories.task:fetch_all_tasks:58 -  Tasks -  <sqlalchemy.engine.result.ChunkedIteratorResult object at 0x7f9b4cefca10>
-2025-03-11 20:50:18.572 | INFO     | src.pomodoro.repositories.task:create_task:44 - create new task with id 1
-2025-03-16 10:31:57.131 | INFO     | src.pomodoro.repositories.task:create_task:44 - create new task with id 1
-2025-03-16 10:32:16.321 | INFO     | src.pomodoro.repositories.task:create_task:44 - create new task with id 2
