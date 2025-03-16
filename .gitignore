@@ -2,3 +2,5 @@
 .idea
 __pychache__/
 *.local*
+logs
+*.env*

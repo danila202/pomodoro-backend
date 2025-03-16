@@ -1,6 +1,6 @@
 from typing import Annotated, Final
 
-from fastapi import APIRouter, status, Depends
+from fastapi import APIRouter,Depends
 
 from src.pomodoro.dependecy import create_task_service
 from src.pomodoro.schema.task import TaskShemaCreate, TaskSchema
